@@ -1,2 +1,2 @@
 # test
-firt git test repo
+first git test repo
